@@ -5,8 +5,11 @@
 
 This program aims to enhance the viewing experience by creating **empathy** among the audience. At the same time, the streamer will be able to adjust the content according to the audience's response.
 Streamers can also adjust the live-action content according to the audience's reaction. The methodology to capture the facial emotions of the audience immediately and effectively is based on the Dynamic Facial Emotion Recognition (DFER) method.
+
 We improve the model based on dynamic facial emotion recognition by combining the micro-expression recognition model to find the model with the best performance. The preliminary results show that the model can detect the facial emotions of the audience **effectively** and in **real-time**.
+
 We then aggregated all the audience's emotional information through the Google Sheets API and processed the information to make the results easy to understand. Eventually, we make the audience see other people's emotional responses in real-time to enhance the viewing experience.
+
 The final result is that the audience can see other people's emotional reactions in real-time, which enhances the viewing experience.
 
 ## 🚀 Main Results
