@@ -23,7 +23,7 @@ Please follow [requirements.txt](requirements.txt).
 
 ## ➡️ Preparation
 
-Please create own google account and fillout the **.json** file as [documentation](https://developers.google.com/sheets/api/guides/concepts).
+Please create own google account and fillout the **.json** file by [documentation](https://developers.google.com/sheets/api/guides/concepts).
 
 ## 📍 Model
 
