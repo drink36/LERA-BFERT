@@ -13,9 +13,9 @@ The final result is that the audience can see other people's emotional reactions
 
 ### ✨ Interface & Result
 
-![Interface](pic\Interface.png)
+![Interface](pic/Interface.png)
 
-![Result](pic\sample_result.png)
+![Result](pic/sample_result.png)
 
 ## 🔨 Installation
 
