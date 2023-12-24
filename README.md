@@ -21,6 +21,9 @@ The final result is that the audience can see other people's emotional reactions
 
 Please follow [requirements.txt](requirements.txt).
 
+## ➡️ Preparation
+
+Please create own google account and fillout the **.json** file as [documentation](https://developers.google.com/sheets/api/guides/concepts).
 
 ## 📍 Model
 
