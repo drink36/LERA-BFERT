@@ -21,6 +21,8 @@ The final result is that the audience can see other people's emotional reactions
 
 ![Result](pic/sample_result.png)
 
+You can find our Poster [here](pic/Project_Poster.pdf), also the Paper [here](pic/Project_Paper.pdf).
+
 ## 🔨 Installation
 
 Please follow [requirements.txt](requirements.txt).
