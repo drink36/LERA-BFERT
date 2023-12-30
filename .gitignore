@@ -2,4 +2,4 @@
 __pycache__/
 
 # only ignores the pth files in model folder, but not the folder itself
-model/*.pth
+# model/*.pth
