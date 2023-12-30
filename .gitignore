@@ -1,5 +1,5 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 
-# model
+# only ignores the files in model folder, but not the folder itself
 model/*
