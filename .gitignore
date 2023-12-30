@@ -1,5 +1,5 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 
-# only ignores the files in model folder, but not the folder itself
-model/*
+# only ignores the pth files in model folder, but not the folder itself
+model/*.pth
