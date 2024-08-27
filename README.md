@@ -15,7 +15,7 @@ The final result is that the audience can see other people's emotional reactions
 
 ## 🚀 Main Results
 
-### ✨ Interface & Result
+### ✨ Interface & Result  
 
 ![Interface](pic/Interface.png)
 
