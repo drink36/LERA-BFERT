@@ -1,6 +1,7 @@
 # LERA-BFERT: Live Emotional Resonance Application Based on Facial Expression Recognition Technology
 > National Taiwan University of Science and Technology & Department of Computer Science and Information Engineering<br>
 
+[English](./README.md) | [中文](./README.zh-TW.md)
 ## ✨ Overview
 
 This program aims to enhance the viewing experience by creating **empathy** among the audience. At the same time, the streamer will be able to adjust the content according to the audience's response.
@@ -21,7 +22,7 @@ The final result is that the audience can see other people's emotional reactions
 
 ![Result](pic/sample_result.png)
 
-You can find our Poster [here](pic/Project_Poster.pdf), also the Paper [here](pic/Project_Paper.pdf).
+You can find our Poster [here](pic/Project_Poster.png), also the report [here](pic/Project_Paper.pdf).
 
 ## 🔨 Installation
 
