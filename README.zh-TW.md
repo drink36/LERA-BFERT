@@ -20,6 +20,9 @@
 
 您可以在這裡找到我們的[海報](pic/Project_Poster_zh.png)，並在這裡閱讀我們的[報告](pic/Project_Paper_zh.pdf)。
 
+模型來源：
+本專案所開發的核心動態面部情緒辨識模型已於 [MAE-DFER-CA](https://github.com/drink36/MAE-DFER-CA) 開源。
+如有興趣了解模型的訓練程式碼與效能測試，請參考該模型專案。
 ## 🔨 Installation
 請依照[requirements.txt](requirements.txt) 中的指示進行安裝。
 

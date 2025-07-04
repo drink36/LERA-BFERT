@@ -24,6 +24,11 @@ The final result is that the audience can see other people's emotional reactions
 
 You can find our Poster [here](pic/Project_Poster.png), also the report [here](pic/Project_Paper.pdf).
 
+**Model Source:**  
+The core dynamic facial emotion recognition model developed in this project is open-sourced at [MAE-DFER-CA](https://github.com/drink36/MAE-DFER-CA).  
+If you are interested in the model training code and benchmarks, please refer to the model repo.
+
+
 ## 🔨 Installation
 
 Please follow [requirements.txt](requirements.txt).
